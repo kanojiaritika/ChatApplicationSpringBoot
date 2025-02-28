@@ -5,7 +5,7 @@
 - Supports bidirectional messaging between users with **STOMP over SockJS**.
 - Designed the UI with **Thymeleaf, HTML, and Bootstrap**.
 
-## **⚙Tech Stack**
+## **Tech Stack**
 - **Backend**: Spring Boot, WebSockets, STOMP, Message Broker  
 - **Frontend**: Thymeleaf, HTML, Bootstrap  
 - **Tools**: Maven
